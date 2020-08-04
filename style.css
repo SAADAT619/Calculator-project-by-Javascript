@@ -1,3 +1,19 @@
-body{
-    background-color: blue;
+.container{
+    text-align:center;
+    margin-top: 23px;
+    
+}
+
+table{
+    margin:auto;
+}
+input{
+    font-size:34px;
+    height: 58px;
+}
+button{
+    font-size: 40px;
+    background: chocolate;
+    height:100px;
+    width: 100px;
 }
